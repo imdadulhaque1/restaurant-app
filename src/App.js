@@ -1,9 +1,11 @@
+import React from 'react';
 import './App.css';
+import MainComponent from "./components/MainComponent.jsx";
 
 function App() {
   return (
     <div className="App">
-      <h1> This is my restaurant projects !</h1>
+     <MainComponent />
     </div>
   );
 }
