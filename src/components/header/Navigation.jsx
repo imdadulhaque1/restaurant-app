@@ -30,10 +30,10 @@ class Navigation extends Component{
                                     <Link to="/menu" className="nav-link">Menu</Link>
                                 </NavItem>
                                 <NavItem>
-                                    <Link to="/" className="nav-link">About</Link>
+                                    <Link to="/about" className="nav-link">About</Link>
                                 </NavItem>
                                 <NavItem>
-                                    <Link to="/" className="nav-link">Contact</Link>
+                                    <Link to="/contact" className="nav-link">Contact</Link>
                                 </NavItem>
                             </Nav>
                         </Collapse>
