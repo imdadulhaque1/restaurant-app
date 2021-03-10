@@ -9,7 +9,7 @@ class Navigation extends Component{
             isNavOpen: false
         }
     }
-    navToggle=()=>{
+    navToggle=()=>{ 
         this.setState({
             isNavOpen: !this.state.isNavOpen
         })
