@@ -29,6 +29,7 @@ class Contact extends Component{
         event.preventDefault();
     }
     render(){
+        document.title = 'Contact';
         return(
             <div className="container">
                 <div className="row row-conten" style={{paddingLeft:"20px", textAlign:"left"}}>
