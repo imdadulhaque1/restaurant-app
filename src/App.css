@@ -8,6 +8,9 @@
   padding-top: 10px;
   bottom: 0;
   width: 100%;
+
+  position: relative;
+  margin-top: auto ;
 }
 .row-content{
   margin: 0px auto;
