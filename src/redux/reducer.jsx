@@ -1,7 +1,7 @@
 import DISHES from "../data/dishes";
 import COMMENTS from "../data/comments";
 import {combineReducers} from "redux";
-import * actionTypes from './actionTypes';
+import * as actionTypes from './actionTypes';
 
 const dishReducer = (dishState = DISHES, action) =>{
     switch (action.type){
