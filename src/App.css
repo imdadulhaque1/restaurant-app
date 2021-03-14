@@ -3,16 +3,16 @@
 }
 
 .footer {
-  background: #D1C4E9;
+  background: #d1c4e9;
   margin: 0px auto;
   padding-top: 10px;
   bottom: 0;
   width: 100%;
 
   position: relative;
-  margin-top: auto ;
+  margin-top: auto;
 }
-.row-content{
+.row-content {
   margin: 0px auto;
   padding: 50px 0px 50px 0px;
   min-height: 400px;
